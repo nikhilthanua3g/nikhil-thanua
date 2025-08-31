@@ -16,4 +16,5 @@
 - Currently learning: JavaScript & React
 
 #### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/nikhil-kumar-16469b368/) • [HackerRank]()
+[LinkedIn](https://www.linkedin.com/in/nikhil-kumar-16469b368/) • [HackerRank](https://www.hackerrank.com/profile/nikhilthanua)
+
